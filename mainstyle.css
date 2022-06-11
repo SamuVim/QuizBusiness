@@ -1,0 +1,11 @@
+.header {
+  padding: 60px;
+  text-align: center;
+  color: white;
+  background: green;
+}
+
+table{
+  max-width: 960px;
+  margin: auto;
+}
