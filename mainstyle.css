@@ -7,9 +7,7 @@ body{
   text-align: center;
   color: white;
   background: green;
-  margin-left: 0px;
-  margin-right: 0px;
-  margin-top: 0px;
+  width: 100%;
 }
 
 h3{
