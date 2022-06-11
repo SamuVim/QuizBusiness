@@ -1,8 +1,16 @@
+body{
+  font: Verdana;
+}
+
 .header {
   padding: 60px;
   text-align: center;
   color: white;
   background: green;
+}
+
+h3{
+  text-align: center;
 }
 
 table{
